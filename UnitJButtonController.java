@@ -1,6 +1,4 @@
 //UnitJButtonController Class
-//Created by: Basmala Moumneh, Ayesha Khalid, Jessie Lin
-//Last modified: 1/17/2019
 //Controller class that displays the equation page based on which unit button is clicked
 
 //imports
