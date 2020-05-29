@@ -1,2 +1,2 @@
-### Physics101
+# Physics101
 Physics Calculator in Java
