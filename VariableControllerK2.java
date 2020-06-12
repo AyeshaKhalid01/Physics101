@@ -1,6 +1,4 @@
 //Program name: VariableControllerK2
-//Programmed by: Basmala Moumneh
-//Date created: 5 01 2019
 //Description: Controller for the variable buttons. Sets the variable in the kinematics pt2 model and updates the gui.
 
 //imports 
