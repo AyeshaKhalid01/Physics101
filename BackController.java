@@ -1,6 +1,4 @@
 //Program name: BackController
-//Programmed by: Basmala Moumneh
-//Date created:  07/01/2019
 //Description: Controller that informs the gui to return back to the main screen when the 'back' button is clicked.
 
 //imports
