@@ -1,6 +1,4 @@
 //Class Name:BackToEqnsFDController  class
-//Programmed by: Ayesha Khalid
-//Last Modified: December 29th 2018
 //Description: calls appropriate methods when the back to FD equations is clicked 
 
 import javax.swing.*; 
