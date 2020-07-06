@@ -1,6 +1,4 @@
 //Program name: BackToEqnsK2Controller
-//Programmed by: Basmala Moumneh
-//Date created:  07/01/2019
 //Description: Controller that for the 'back to equation page' for the kinematics part 2 equations.
 
 //imports
