@@ -1,6 +1,4 @@
 //Controller Name: VariableControllerFandD 
-//Programmed by: Ayesha Khalid
-//Last Modified: December 29th 2018
 //Description: Gets user input for variable and calls methods in the FD model and view class
 
 //imports the packages required for the class
