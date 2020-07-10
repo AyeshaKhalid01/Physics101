@@ -1,6 +1,4 @@
 //EqnJButtonController
-//Created by: Jessie Lin
-//Last modified: 01/19/2019
 //Controller class that controls JButtons for chosing equations and sets equation in models 
 
 //imports
