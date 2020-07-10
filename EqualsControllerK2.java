@@ -1,6 +1,4 @@
 //Program name: EqualsControllerK2
-//Programmed by: Basmala Moumneh
-//Date created: 05 01  2019
 //Description: Controller for the 'calculate button - calls the solve method in the kinematics pt2 model
 
 //imports
