@@ -1,6 +1,4 @@
 //EqualsControllerK1 
-//Created by: Jessie Lin
-//Last modified: 1/17/2019
 //Controller class to control the equals/calculate button on the k1 screen
 
 //imports 
