@@ -1,6 +1,4 @@
 //Class Name:EqualsControllerFandD    class
-//Programmed by: Ayesha Khalid
-//Last Modified: December 29th 2018
 //Description: sets the values from the text fields as the variables and calls the solution method in the model to solve for an answer
 
 //imports
