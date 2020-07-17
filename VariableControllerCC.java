@@ -1,7 +1,6 @@
 //Controller Name: VariableControllerCC 
 //Programmed by: Ayesha Khalid
-//Last Modified: December 29th 2018
-//Description: Gets user input for the unit the user wants to solve for 
+
 
 //imports the packages required for the class
 import javax.swing.*;
