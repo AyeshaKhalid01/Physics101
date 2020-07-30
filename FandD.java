@@ -1,6 +1,5 @@
 //Class Name: FandD 
 //Programmed by: Ayesha Khalid 
-//Last Modified: December 29th 2018 
 //Description: Calculates answers using the formulas within the forces and dynamics unit 
 
 import java.util.*; 
