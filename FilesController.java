@@ -1,6 +1,4 @@
 //Program name: FilesController
-//Programmed by: Basmala Moumneh
-//Date created: 03 01 2019
 //Description: Controller for the files button - opens a jfileschooser that allows the user to open a specific file
 //http://www.java2s.com/Tutorials/Java/Swing_How_to/JFileChooser/Open_Selected_file_with_default_application_in_JFileChooser.htm code from this website was utilized 
 
