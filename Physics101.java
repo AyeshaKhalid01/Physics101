@@ -1,6 +1,4 @@
 //Physics101
-//Programmed by: Basmala Moumneh
-//Date created: 1/17/2019
 //Description: Startup class to link model and gui and display gui in a frame
 
 //imports
