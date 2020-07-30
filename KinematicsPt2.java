@@ -1,6 +1,4 @@
 //Program name: KinematicsPt2
-//Programmed by: Basmala Moumneh
-//Date created:  29 12 2018
 //Description: Model class for the kinematics Pt2 unit. Solves for the desired variable. contains accessor and set methods for all variable.
 
 //imports 
