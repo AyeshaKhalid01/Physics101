@@ -1,6 +1,4 @@
 //VarControllerK1 class
-//Created by: Jessie Lin
-//Last modified: 1/16/19
 //Enables and disables radiobuttons and textfields in the gui based on which radiobutton user clicks
 
 //imports
