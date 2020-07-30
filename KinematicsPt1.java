@@ -1,6 +1,4 @@
 //Kinematics part 1 model class
-//Created by: Jessie Lin
-//Last modified: 1/17/2019
 //Model for kinematics 1 - solves for the unknown variable based on vals from controller and tells gui to update
 
 //imports
